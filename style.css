@@ -20,8 +20,6 @@ a {
     max-height: 300px;
 }
 
-#dora{
-    height : 300px;
 #fork img{
     height: 25px;
     margin-bottom: 25px;
@@ -58,7 +56,6 @@ a {
 .bg-3 {
     background-color: #000000; /* Black */
     color: #ffffff;
-    background-image: url("../img/peppa.jpg");
 }
 
 .bg-4 {
